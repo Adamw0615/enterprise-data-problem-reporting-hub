@@ -60,6 +60,8 @@ Provides executive-level recommendations and action tracking.
 
 ## Automation & Data Quality Insights
 
+Highlights opportunities to reduce manual effort through automation.
+
 <img width="2082" height="1462" alt="Automation   Data Quality Insights" src="https://github.com/user-attachments/assets/b00aea89-2f88-493d-9ea1-6a8a47d5623b" />
 
 
