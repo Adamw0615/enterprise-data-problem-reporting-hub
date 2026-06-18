@@ -32,8 +32,7 @@ This project provides:
 ### Executive Summary
 Provides leadership visibility into open issues, severity trends, and domain performance.
 
-![Executive Summary](screenshots/executive-summary.png)
-
+https://github.com/Adamw0615/enterprise-data-problem-reporting-hub/blob/main/Screenshots/Executive%20Summary%20.png
 
 
 ### SLA & Aging Dashboard
