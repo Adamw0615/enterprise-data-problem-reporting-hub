@@ -32,32 +32,35 @@ This project provides:
 ### Executive Summary
 Provides leadership visibility into open issues, severity trends, and domain performance.
 
-https://github.com/Adamw0615/enterprise-data-problem-reporting-hub/blob/main/Screenshots/Executive%20Summary%20.png
+<img width="2195" height="1186" alt="Executive Summary " src="https://github.com/user-attachments/assets/7ab7effd-a11f-484e-a11e-a0a7615f8d92" />
+
 
 
 ### SLA & Aging Dashboard
 
 Tracks overdue issues, due-soon items, aging buckets, and owner workload.
 
-![SLA Dashboard](screenshots/sla-dashboard.png)
+<img width="2097" height="1471" alt="SLA Dashboard " src="https://github.com/user-attachments/assets/e2778223-1bd7-4663-a5ed-73b5db1d7989" />
+
 
 
 ### Root Cause & Automation Dashboard
 
 Identifies recurring root causes and opportunities for process automation.
 
-![Root Cause Analysis](screenshots/root-cause-analysis.png)
+<img width="2102" height="1451" alt="Root Cause Analysis" src="https://github.com/user-attachments/assets/6e059c38-3a9c-4119-8380-ed8c608dc575" />
 
 
 ### Leadership Insights Dashboard
 
 Provides executive-level recommendations and action tracking.
 
-![Leadership Insights](screenshots/leadership-insights.png)
+<img width="2108" height="1451" alt="Leadership Insights   Reporting" src="https://github.com/user-attachments/assets/2d591373-7ae9-4927-8ca1-e9cead81efde" />
+
 
 ## Automation & Data Quality Insights
 
-![Automation Insights](screenshots/automation-insights.png)
+<img width="2082" height="1462" alt="Automation   Data Quality Insights" src="https://github.com/user-attachments/assets/b00aea89-2f88-493d-9ea1-6a8a47d5623b" />
 
 
 ## Key Features
